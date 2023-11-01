@@ -1,0 +1,21 @@
+*{
+    margin:0 ;
+    padding: 0%;
+    font-family: century;
+}
+body{
+    background-image: url(bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.text-wrapper{
+    text-align: center;
+    font-size: 55px;
+
+}
+p{
+    font-family:cursive;
+}
+h1{
+    font-family:cursive;
+}
